@@ -14,8 +14,7 @@ There are 2 possible scenarios for this Step by Step
 
 1. On the GitHub Marketplace, find the [Azure Boards Integration App](https://github.com/marketplace/azure-boards). 
 2. On the bottom of the page, select Install it for free.
-
-    ![](/Assets/newABIntegration.png)
+   ![](/Assets/newABIntegration.png)
 
 3. In the next page, Click "Complete order and begin installation"
 
