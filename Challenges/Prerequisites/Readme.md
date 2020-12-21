@@ -19,7 +19,7 @@ The workshop is built with and targeted at development with GitHub Codespace. A 
 1. Navigate to your forked repository on GitHub
 2. Create a Code Space in your forked repo
 
-![](/Assets/CodeSpace.png)
+![](https://github.com/himanshuahlawat31/collabwork-demo/blob/main/Assets/CodeSpace.png)
 
 3. Your GitHub Codespace will be created
 
