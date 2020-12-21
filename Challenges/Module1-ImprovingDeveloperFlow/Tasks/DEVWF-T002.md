@@ -43,8 +43,4 @@ If you are stuck or you want to progress to the next challenge, there is a solut
 Workshop-Step Solution "DEVWF-T002"
 ```
 
-To read or view a step by step explanation of this challenge, please visit [this page](/Challenges/Module1-ImprovingDeveloperFlow/Step-By-Step/DEVWF-T002-SBS.md)
-
-### Next Step
-
-When you are done, move to the [next challenge](DEVWF-T003.md)
+To read or view a step by step explanation of this challenge, please go to Next Page
