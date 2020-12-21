@@ -67,7 +67,7 @@ To set this up, you need to perform these steps
 1. Create a Personal Access Token as [described here](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token)
 1. Keep this Personal Access token somewhere safe for later use. **DO NOT COMMIT THIS TO YOUR REPO!**
 
-![Permissions GH](/Assets/Permissions-GH.png)
+![Permissions GH](../../Assets/Permissions-GH.png)
 
 #### Create Azure DevOps Personal Access Token
 
