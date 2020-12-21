@@ -23,5 +23,5 @@ In this challenge you are going to use your [CodeToCloud-Source] repository that
 
 ## Solution
 
-To read or view a step by step explanation of this challenge, please click on Next Page(/Challenges/Module1-ImprovingDeveloperFlow/Step-By-Step/DEVWF-T001-SBS.md)
+To read or view a step by step explanation of this challenge, please click on Next Page.
 
