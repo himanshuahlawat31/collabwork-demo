@@ -143,6 +143,4 @@ If you ever manually change the values in the `settings.json`, opening a fresh P
 Invoke-expression $profile
 ```
 
-### Next Step
-
-When you are done, move to the [first challenge](/Challenges/Module1-ImprovingDeveloperFlow/ImprovingDeveloperWorkflow.md)
+Please go to Next Page to start the lab
