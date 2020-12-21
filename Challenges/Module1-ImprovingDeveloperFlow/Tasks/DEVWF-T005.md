@@ -34,8 +34,4 @@ In this challenge you will enable two important security features. DependaBot an
 
 ## Solution
 
-To read or view a step by step explanation of this challenge, please visit [this page](/Challenges/Module1-ImprovingDeveloperFlow/Step-By-Step/DEVWF-T005-SBS.md)
-
-### Next Step
-
-When you are done, move to the [next challenge](DEVWF-T006.md)
+To read or view a step by step explanation of this challenge, please visit Next Page
