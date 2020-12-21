@@ -21,13 +21,13 @@ In this task your are going to create a continuous deployment pipeline in GitHub
 
 4. On the Conversation Tab, press the Merge Pull Request Button, to merge the files in to the main branch. Link the Pull Request to your Azure Boards Work item for Module 3 by typing AB#Module1WorkItemID in the title or description of the Pull Request Commit Message. 
 
-      ![Shows the button for merging a Pull Request in GitHub](/Assets/mergePullRequest.png)
+      ![Shows the button for merging a Pull Request in GitHub](https://raw.githubusercontent.com/himanshuahlawat31/collabwork-demo/main/Assets/mergePullRequest.png)
 
 Now your repository contains the new file.
 
 6. In your GitHub Codespace, update your files to the latest version by pulling them.
 
-      ![](/Assets/2020-10-05-12-10-11.png)
+      ![](https://raw.githubusercontent.com/himanshuahlawat31/collabwork-demo/main/Assets/2020-10-05-12-10-11.png)
 
 ## Create a new GitHub Action Workflow that builds and pushes with Docker Compose
 
@@ -47,11 +47,11 @@ services:
 
 2. To use docker compose in our build, we are going to add a new GitHub Action workflow. In your GitHub repository, open the [Actions] Tab and create a new GitHub Action.
 
-![](NewGHAction.png)
+![](https://raw.githubusercontent.com/himanshuahlawat31/collabwork-demo/main/Assets/NewGHAction.png)
 
 3. Select the Simple Workflow and call the new YAML file docker-publish.yml
 
-![](simplewf.png)
+![](https://raw.githubusercontent.com/himanshuahlawat31/collabwork-demo/main/Assets/simplewf.png)
 
 4. Change the `name` property to [Docker Compose Build and Deploy]. And add the following code snippet below the  `- uses: actions/checkout@v2` step
 
@@ -103,7 +103,7 @@ Copy the complete JSON output to your clipboard.
 
 7. In your repository settings, navigate to [Secrets] and create a new secret called [AZURE_CREDENTIALS]. Paste the copied value from your clipboard to the value of the secret and save it.
 
-![](secretAZCRED.png)
+![](https://raw.githubusercontent.com/himanshuahlawat31/collabwork-demo/main/Assets/secretAZCRED.png)
 
 8. Back in the GitHub Action workflow, add a new step that uses the [AZURE_CREDENTIALS] secret to login to Azure
       
