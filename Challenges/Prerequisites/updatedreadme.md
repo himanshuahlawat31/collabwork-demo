@@ -12,7 +12,7 @@ The workshop builds upon an existing code base. Before you start the workshop, t
 
 1. Sign in to the [Github](https://github.com/login) using the **GitHub Credential** provided under the **Environment details->Licenses** tab.
 
-   ![](../..//Assets/Licensestab.png)
+   ![](https://raw.githubusercontent.com/himanshuahlawat31/collabwork-demo/main/Assets/Licensestab.png)
 
 2. Navigate to [CodeToCloud-Source](https://github.com/xpiritbv/CodeToCloud-Source) repository to fork it into a account you logged in the previous step.
 
