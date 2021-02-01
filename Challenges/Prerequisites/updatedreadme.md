@@ -12,13 +12,13 @@ The workshop builds upon an existing code base. Before you start the workshop, t
 
 1. Sign in to the [Github](https://github.com/login) using the **GitHub Credential** provided under the **Environment details->Licenses** tab.
 
-   ![](/Assets/Licensestab.png)
+   ![](../..//Assets/Licensestab.png)
 
 2. Navigate to [CodeToCloud-Source](https://github.com/xpiritbv/CodeToCloud-Source) repository to fork it into a account you logged in the previous step.
 
 3. Click on **Fork** from the top right corner
    
-   ![](/Assets/fork.png)
+   ![](../..//Assets/fork.png)
    
 4. Then from your forked repository under the **Settings** tab rename the forked repository to **CodeToCloud-Source-UniqueID**, Click on **Rename**.
    
