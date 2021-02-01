@@ -22,7 +22,7 @@ The workshop builds upon an existing code base. Before you start the workshop, t
    
 4. Then from your forked repository under the **Settings** tab rename the forked repository to **CodeToCloud-Source-UniqueID**, Click on **Rename**.
    
-   ![](/Assets/renamerepo.png)
+   ![](../..//Assets/renamerepo.png)
 
 >Get the UniqueID value from the **Environment details-> Azure Credentials** tab, Suppose the UniqueID is 296566 the name of the forked repository should be CodeToCloud-Source-296566
 
@@ -34,15 +34,15 @@ The workshop is built with and targeted at development with GitHub Codespace. A 
 
 2. Under the **Code** dropdown click on **Open with Codespaces** then **+New Codespace**  to create a Code Space in your forked repo.
 
-   ![](/Assets/CodeSpaces.png)
+   ![](../..//Assets/CodeSpaces.png)
 
 3. Preparation and Configuration of the Codespace takes around 3 minutes.
 
-   ![](/Assets/Codespace-initiation.png)
+   ![](../..//Assets/Codespace-initiation.png)
 
 4. Once your GitHub Codespace is created you should be able to see the files and a welcome message under the Terminal.
 
-   ![](/Assets/Codespace-files.png)
+   ![](../..//Assets/Codespace-files.png)
 
    Visual Studio Code doesn't pass a couple of specific of keystrokes to the terminal, this may make it harder to quit docker once you've started a container interactively. You can add the [custom keybindings specified here](/.devcontainer/keybindings.json) to [your Visual Studio Code settings](https://code.visualstudio.com/docs/getstarted/keybindings#_advanced-customization). This remaps `ctrl-q` and `ctrl-p` when the terminal has focus.
 
@@ -88,19 +88,19 @@ To set this up, you need to perform these steps
 
 - In the upper-right corner of any page, click your profile photo, then click **Settings** and in the left sidebar click **Developer settings**.
 
-  ![Permissions GH](/Assets/Settings_pat.png)
+  ![Permissions GH](../..//Assets/Settings_pat.png)
 
 - Then in the left sidebar, click **Personal access tokens** to select the scopes or permissions you would like to grant this token.
   
-  ![Permissions GH](/Assets/PAT.png)
+  ![Permissions GH](../..//Assets/PAT.png)
 
 - Click **Generate new token**.
 
-  ![Permissions GH](/Assets/gentoken.png)
+  ![Permissions GH](../..//Assets/gentoken.png)
 
 3. Click on Copy icon to copy the token to your clipboard and save it on your notepad. For security reasons, after you navigate off the page, you will not be able to see the token again. **DO NOT COMMIT THIS TO YOUR REPO!**
 
-  ![Permissions GH](/Assets/copytoken.png)
+  ![Permissions GH](../..//Assets/copytoken.png)
 
 #### Create Azure DevOps Personal Access Token
 
