@@ -1,6 +1,3 @@
-# Prerequisites for the Code To Cloud Workshop
-
-This workshop is targeted for students in a instructor-led training. To make it challenging for the students, the workshop contains challenges that can also be done individually. To make sure students do not get stuck, there are scripts available with instructions to "automatically" fix a challenge, so students can continue. The workshop also contains extensive Step-By-Step videos and written instructions. There are also videos that explain the concepts that are used in the exercises.
 
 # Video
 If you rather watch a video with step by step instructions, you can do that here
